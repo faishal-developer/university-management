@@ -12,8 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
-  "lint-staged":{
-    "src/**/*.ts":"npm run lint-prettier"
+  "lint-staged": {
+    "src/**/*.ts": "npm run lint-prettier"
   },
   "keywords": [],
   "author": "",
