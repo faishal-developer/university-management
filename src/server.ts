@@ -7,10 +7,10 @@ async function main() {
   try {
     await mongoose.connect(config.database_url as string)
     app.listen(config.port, () => {
-      logger.info(`example app listning`)
+      logger.logger.info(`example app listning`)
     })
   } catch (err) {
-    logger.error(err)
+    logger.errorLogger.error(err)
   }
 }
 main()
