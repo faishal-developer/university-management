@@ -1,0 +1,21 @@
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-30T10:14:58.544Z'
+}
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-30T10:18:22.093Z'
+}
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-30T10:36:57.210Z'
+}

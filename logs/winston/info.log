@@ -1,1 +1,19 @@
-{"level":"info","message":"example app listning","service":"user-service"}
+2023-07-26T03:59:53.917Z [right meow!] info: example app listning
+2023-07-26T04:00:18.893Z [right meow!] info: example app listning
+2023-07-26T04:02:34.838Z [right meow!] info: example app listning
+Wed Jul 26 2023 10:9:36 [right meow!] info: example app listning
+Wed Jul 26 2023 10:11:27 [UM] info: example app listning
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-26T04:13:22.389Z'
+}
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-26T04:13:48.560Z'
+}

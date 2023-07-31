@@ -1,0 +1,7 @@
+{
+  message: 'example app listning',
+  level: 'info',
+  service: 'user-service',
+  label: 'UM',
+  timestamp: '2023-07-30T05:29:47.502Z'
+}

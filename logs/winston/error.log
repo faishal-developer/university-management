@@ -1,1 +1,1 @@
-{"level":"info","message":"example app listning","service":"user-service"}
+2023-07-26T04:02:05.371Z [right meow!] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.

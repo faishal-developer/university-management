@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\errors\\.21ef56ca2e67ff08d693c3335e32889648232947-audit.json",
+    "files": [
+        {
+            "date": 1690694981733,
+            "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\errors\\UM-2023-07-30-11-error.log",
+            "hash": "6c539f90000a57ed7db51ca883ea4da1904b796083320bfc1f57d78841b1c1e1"
+        },
+        {
+            "date": 1690697418971,
+            "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\errors\\UM-2023-07-30-12-error.log",
+            "hash": "588cf3931be7233a4276d20afd3413f39c820a59846cbfaadeffcac04a372531"
+        },
+        {
+            "date": 1690712089702,
+            "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\errors\\UM-2023-07-30-16-error.log",
+            "hash": "160345528e49caeda1d49e7474b556ad1a5f5fff205aeaadbb506c63bef13e5b"
+        }
+    ],
+    "hashType": "sha256"
+}
