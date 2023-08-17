@@ -1,25 +1,15 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\.174ebf11178aa41aacc015716c2816278b2d0829-audit.json",
-  "files": [
-    {
-      "date": 1690694981690,
-      "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\UM-2023-07-30-11-info.log",
-      "hash": "76e4721d15168382082673c00bbefe2f10badafbf3c5b3773f2130d1d33d3529"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1690697418952,
-      "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\UM-2023-07-30-12-info.log",
-      "hash": "be35de302ab2f2fffb0112d7ec0cec3d1a70c9247915d37dceb9e10f641dadec"
-    },
-    {
-      "date": 1690712089663,
-      "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\UM-2023-07-30-16-info.log",
-      "hash": "5678c965f90ca2bada919c432c172bbc0d0458f6f4051e9e0fbea2f5b50ae52f"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\.174ebf11178aa41aacc015716c2816278b2d0829-audit.json",
+    "files": [
+        {
+            "date": 1692291199964,
+            "name": "E:\\nextLevelRoot\\SDLC\\UniversityProject\\logs\\winston\\successes\\UM-2023-08-17-22-info.log",
+            "hash": "e8836d108f24515a2d2f5fd47b3766c43a6773f93b6025e95b7f9e8693bed9b0"
+        }
+    ],
+    "hashType": "sha256"
 }

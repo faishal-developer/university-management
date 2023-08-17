@@ -4,7 +4,6 @@ import { paginationFields } from '../../../constant/pagination'
 import catchAsync from '../../../shared/catchAsync'
 import pick from '../../../shared/pick'
 import sendResponse from '../../../shared/sendResponse'
-import { UserService } from '../User/user.service'
 import { AcademicSemesterService } from './academicSemester.service'
 import {
   IAcademicSemesterFilters,
@@ -13,7 +12,9 @@ import {
 
 const createSemester = catchAsync(async (req: Request, res: Response) => {
   const { ...academicSemesterData } = req.body
-  const result = await UserService.createUser(academicSemesterData)
+  const result = await AcademicSemesterService.createSemester(
+    academicSemesterData,
+  )
   sendResponse(res, {
     statusCode: status.OK,
     success: true,
