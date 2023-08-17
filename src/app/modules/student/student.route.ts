@@ -4,7 +4,7 @@ import { studentController } from './student.controller'
 import { StudentValidaion } from './student.validation'
 
 const router = express.Router()
-//working 2
+//working
 router.get('/:id', studentController.getSingleStudent)
 router.get('/', studentController.getAllStudents)
 router.delete('/:id', studentController.deleteStudent)
