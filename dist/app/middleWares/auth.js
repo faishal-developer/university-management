@@ -1,4 +1,4 @@
-"use strict";
+'use strict'
 // import { NextFunction, Request, Response } from 'express'
 // import httpStatus from 'http-status'
 // import { Secret } from 'jsonwebtoken'
